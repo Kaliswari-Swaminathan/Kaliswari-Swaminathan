@@ -2,7 +2,7 @@
 - 👀 I’m Software Developer
 - 🌱 I’m interested in developing dynamic web pages.
 - 💞️ I’m looking to collaborate on Web page design and development
-- 📫 How to reach me : kalissusi598@gmail.com
+- 📫 How to reach me : kalis.techie@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
